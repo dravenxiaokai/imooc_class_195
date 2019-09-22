@@ -1,7 +1,7 @@
-package com.draven.imooc_class_275;
+package com.draven.imooc_class_195;
 
 
-import com.draven.imooc_class_275.annotations.NotThreadSafe;
+import com.draven.imooc_class_195.annotations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.CountDownLatch;

@@ -1,4 +1,4 @@
-package com.draven.imooc_class_275;
+package com.draven.imooc_class_195;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

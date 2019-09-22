@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.draven</groupId>
-    <artifactId>imooc_class_275</artifactId>
+    <artifactId>imooc_class_195</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>imooc_class_195</name>
     <description>Java并发编程入门与高并发面试</description>
